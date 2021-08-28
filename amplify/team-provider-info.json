@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-holydaily-dev-194352-authRole",
+      "UnauthRoleArn": "arn:aws:iam::580973355803:role/amplify-holydaily-dev-194352-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::580973355803:role/amplify-holydaily-dev-194352-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-holydaily-dev-194352-deployment",
+      "UnauthRoleName": "amplify-holydaily-dev-194352-unauthRole",
+      "StackName": "amplify-holydaily-dev-194352",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:580973355803:stack/amplify-holydaily-dev-194352/77a25cf0-07e4-11ec-bd47-067ab790b156",
+      "AmplifyAppId": "d26c2qq462yyz8"
+    },
+    "categories": {
+      "auth": {
+        "holydaily6f35a6f6": {}
+      }
+    }
+  }
+}
